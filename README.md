@@ -40,13 +40,13 @@ Api
 
 - add: 增加一个选项
 	
-	$('#test').bizTransfer('add', [{id:1,title:'', chosen: false}])
+	`$('#test').bizTransfer('add', [{id:1,title:'', chosen: false}])`
 
 - value: 获取被选项对应的数据
 
-	$('#test').bizTransfer('value')
+	`$('#test').bizTransfer('value')`
 
 - select: 选中一些选项
 
-	$('#test').bizTransfer('select', [1,2,3])//列表中为需要被选中数据的id值
+	`$('#test').bizTransfer('select', [1,2,3]) //列表中为需要被选中数据的id值`
 	
