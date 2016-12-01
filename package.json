@@ -1,9 +1,10 @@
 {
   "name": "@bizfe/jquery-transfer",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "author": "xiongsheng",
   "description": "",
   "scripts": {},
+  "main": "./dist/jquery.transfer.js",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",

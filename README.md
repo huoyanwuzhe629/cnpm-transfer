@@ -1,8 +1,8 @@
-#说明
+# 说明
 	
 - jquery的穿梭框插件，依赖bizui
 
-#Usage
+# Usage
 
 下载最新版本或者：
 
@@ -49,4 +49,11 @@ Api
 - select: 选中一些选项
 
 	`$('#test').bizTransfer('select', [1,2,3]) //列表中为需要被选中数据的id值`
+
+-update: 更新穿梭框的数据
 	
+	`$('#test').bizTransfer('update', newData) //key值
+
+# 参考 
+
+见demo
